@@ -7,4 +7,4 @@ I am an experienced architect with a demonstrated history of working in the info
 🎯 Community Leader at [Sri Lanka Developer Forum](https://www.meetup.com/Sri-Lanka-NET-Forum/)  
 🎯 [Microsoft MVP / Developer Technologies](https://mvp.microsoft.com/en-us/PublicProfile/37564?fullName=Fiqri%20Ismail)  
 🎯 Technical Tutorials at [#askFiqri](https://youtube.com/c/AskFiqri)  
-🎯 [LinkedIn Profile](https://linkedin/in/fiqriismail)
+🎯 [LinkedIn Profile](https://www.linkedin.com/in/fiqriismail/)
